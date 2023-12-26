@@ -15,8 +15,8 @@ This Python project implements a simple file system simulation, creating a custo
 ## Usage
 
 1. **Installation:**
-   - Clone the repository: `git clone https://github.com/your-username/file-system-simulation.git`
-   - Navigate to the project directory: `cd file-system-simulation`
+   - Clone the repository: `git clone https://github.com/gvlk/file-system.git`
+   - Navigate to the project directory: `cd file-system`
 
 2. **Run the Simulation:**
    - Execute the main script with the desired options:
